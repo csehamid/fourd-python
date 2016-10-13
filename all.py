@@ -15,7 +15,7 @@ rawTrain = pd.read_csv(pathtrain)
 
 #loading forge.csv as test data--------------------------
 pathtest = './forge.csv'
-rawTest = pd.read_csv(pathtest)
+rawTest = pd.read_csv(pathtest)   
 
 
 #tf idf vectorizing--------------------------------------------------
