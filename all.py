@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import tree
 from sklearn import svm
 from sklearn.naive_bayes import BernoulliNB
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import MultinomialNB    
 
 #loading got.csv as train data--------------------------
 pathtrain = './git.csv'
