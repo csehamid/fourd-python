@@ -1,0 +1,1000 @@
+commit,classifier
+zwei tabs nach der einheitennummer ,0
+working on resolving HAFE damage ,0
+Working on loading offboard assets from scenario files ,0
+Working on initial placement of units ,0
+Working on Infantry movement ,0
+Working on getting Point Defence dialog sorted out ,0
+working on getting automated shutdown to work properly ,0
+Working on GameElementThemes ,0
+working on deploying missiles during combat phase ,0
+Working on CapitalShipStatus as a prelude to more work on the Movement Phase ,0
+Working on applying damage to CapitalShips ,0
+Worked with ordered sections. A bit of a mess  but all tests run. ,0
+worked on equipment ,0
+Work to get SelectWeaponToFireDialog working ,0
+Work on Painting attempt resolution ,0
+Work on Movement dialogs ,0
+Work on Fighter Unit movement dialog ,0
+work in progress: writing debug info into byte code,0
+work in progress: tutorials,0
+work in progress: macros,0
+work in progress: Lazy evaluation for implementing nonstrict Combinators like Y & Co.,0
+work in progress: JavaDocs,0
+work in progress: documentation,0
+work in progress,0
+wizard dialog ,0
+wizard ,0
+we now read *.scm files !,0
+very deep changes needed for two things: - remove dependencies to Eressea - add support for xml ,0
+Version 0.9.1,0
+Vehicles now drawing ,0
+various updates ,0
+various stuff ,0
+various fixes ,0
+Using Java 1.3 in project ,0
+use Scanner instance to read user input,1
+Usage examples for constraints and assertThat ,0
+upper case ,0
+uploads ,0
+upgrading to 0.9.2,0
+upgrade to ASM version 4.0,0
+updates. trying to make the SF cvs update the pserver mirror... ,0
+Updated with maven 2 stuff ,0
+updated translation ,0
+updated todos,0
+updated todo list,0
+Updated to use latest rMock ,0
+Updated to beta 2 ,0
+Updated the SCM settings ,0
+Updated the project to use cglib2.1_2 no_dep jar instead. Seems to work under Java 1.5 as well. ,1
+Updated the InvocationListener to take a MethodReference instead of methodName and parameterTypes ,0
+Updated the documentation to use static suites for extra control ,1
+Updated the build to build the rDoc-parser with Javacc ,0
+Updated some sourceforge properties ,0
+Updated release notes and some documentation. ,0
+Updated release notes ,0
+updated release notes ,0
+Updated POMs ,0
+Updated name to be rdoc and group to be rmock  to have rmock and rdoc in the same maven repository. ,0
+updated javadoc ,0
+updated filenames,0
+updated FAQ ,0
+Updated documentation features and maven  improved gui extension ,0
+Updated documentation ,0
+updated docs ,0
+Updated copyright ,0
+updated config file to match code ,0
+updated Chausler ,0
+Updated Chausler ,0
+Updated changes ,0
+Updated ChangeLog ,0
+updated build files ,0
+Updated ArrayReference to work with primitive types. ,1
+Updated a test in the documentation ,0
+update todo list,0
+update documentation,0
+update docs,0
+Update Chausler ,0
+update and typo ,0
+update ,0
+unit testCase for runFile ,0
+Unit Test: new Test for working with Java collections,0
+typo ,0
+tweaks ,0
+Tweaking game logs ,0
+tweaked compiler settings ,0
+tweak ,0
+Trying to improve the user interface. Removing popup messages ,0
+Trying to get rid of the -m warnings ,0
+tried to fix retries ,0
+translation update ,0
+translation stuff ,0
+translation and debian stuff ,0
+towards rel. 2.0 ...,0
+TODO: fix section on partial application,0
+TODO: added some examples for things that should be working asap:  - mutual recursion (quick fix would be to allow deferred lookup of function definitions  i.e dynamic scoping.) - proper handling of closures,0
+this directory is useless. ,0
+This commit was manufactured by cvs2svn to create tag  v1_2_3 .,0
+This commit was manufactured by cvs2svn to create tag  v1_2_2 .,0
+This commit was manufactured by cvs2svn to create tag  v1_2_1 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_9 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_5 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_4b .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_23 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_22 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_21 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_20 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_2 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_16 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_14 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_13 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_12 .,0
+This commit was manufactured by cvs2svn to create tag  v1_1_11 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_EXT_TDDOC_0_1_0 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_rc_6 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_rc_3 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_rc_1 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_beta_5 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_beta_1 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_2_0_0_alpha_2 .,0
+This commit was manufactured by cvs2svn to create tag  RMOCK_1_0_0 .,0
+This commit was manufactured by cvs2svn to create tag  release-tags .,0
+This commit was manufactured by cvs2svn to create tag  release .,0
+This commit was manufactured by cvs2svn to create tag  PreAlpha_013 .,0
+This commit was manufactured by cvs2svn to create tag  PreAlpha_001 .,0
+This commit was manufactured by cvs2svn to create branch  vendor .,0
+the very special extra race icons,0
+the same small bug in refreshItems,0
+testing ,0
+test group commit ,0
+test for mailing commit informations ,0
+test for activitymail ,0
+Temppunits werden nun in die TempUnit-Map eingetragen ,0
+tackled firewalled downloads ,0
+table columns ,0
+synchronization fixes ,0
+sync eclipse ,0
+switch to activitymail 1.16 ,0
+svn initial checkin,0
+svn ignores,0
+support new echeck version mark on overloaded ships do not write locale for games named GAV* added Date- header for MailMessage,0
+Stupid bug... ,0
+Still not quite hitting my stride and overthinking.,0
+still fighting with element placement ,0
+statcvs ,0
+Starting rework to make Grav Vehicle movement usable ,0
+starting off-board request resolution ,0
+Started working on Game and Player Admin ,0
+Started work on movement projection ,0
+Started work on maps and themes ,0
+Started work on kicking a Centurion game off Added Commanders and CommanderTemplates ,0
+Started work on getting the dialog functional ,0
+Started velocity documentation generation implementation ,0
+Started trying out the Bus on RMock-testcase ,0
+started on commenting togg... ,0
+Started ironing out connection/disconnection and reconnection issues. Loads more to resolve. ,0
+Started implementation of multiplexing connection points ,0
+Started categorization of failures. When all expectations are not satisfied after a test an UnsaisfiedExpectationsException is thrown instead of the JUnitDependent AssertFailedException. ,0
+Started adding vehicle internal structure classes ,0
+Standard project directories initialized by cvs2svn.,0
+spelling... ,0
+sourceforge webpages under version control ,0
+Source code level changes. See ChangeLog ,0
+source code indenting ,0
+Sorting out display of other asset requests ,0
+some tweaks ,0
+some tidying up ,0
+some small fixes ,0
+some slight rework ,0
+some progress ,0
+some new classes for a better gui. Added heavy gui cleanups ,0
+Some more work on getting offboard assets hooked up ,0
+some more manual ,0
+some more fixes ,0
+some more examples for lazy evaluation,0
+some minor updates,0
+some major changes concerning EMapOverviewPanel ,0
+some gui tweaks ,0
+some further progress ,0
+some fixes ,0
+some code style tests to see what the API could look like.,0
+some code beautifings from solthan (stm) changed FileHandlung (CRs) from String FileName to File FileName (stm),0
+some cleanup ,0
+some changes and preparations for a new release ,0
+some changes - see changelog :-) ,0
+snapshot release ,0
+smaller fixes ,0
+small svn test: added time info to developer link Fiete,0
+small restructure ,1
+small fixes to datafiles ,0
+small fix ,0
+shortcut changes ,0
+sharing by index fix ,0
+Share project jLambda into https://jlambda.svn.sourceforge.net/svnroot/jlambda,0
+Setup VehicleMovementDialogTest ,0
+Setting up UI for OpportunityFire ,0
+setting up for off-board asset request resolution ,0
+Server side work to set up firing phase ,0
+Schiffe in der Zugvorlage ,0
+scaling ,0
+reworked the target selection idea to a single panel rather than the separate firer and target panels ,0
+reworked setOriginAction and setOriginDialog added familiarmage-tag to unit.merge added icon for munition = katapultmunition added section.mail for showing player-messages fixed bug for region zauber (dist = 2 had x y) added context menu item select units in EMapDetail,1
+reworked setOriginAction and setOriginDialog added familiarmage-tag to unit.merge added icon for munition = katapultmunition added section.mail for showing player-messages,0
+resumes are getting better ,0
+ResourceManager first version. More to come soon. ,0
+repository search ,0
+replaced e.printStackTrace with log.error(e) ,1
+repaired gnutella plugin ,0
+repair or and,0
+renaming didnÂ´t work old race icons again,0
+Renamed the record method to mock to be more consistent with other mock frameworks ,0
+Renamed S -> SectionFactory  A -> ActionFactory  M -> MultiplicityFactory  C -> ConstraintFactory ,1
+renamed file ,0
+Renamed Bus->Hub (package also)  Created first version of Configurator and the RMockServiceFactory interface. ,1
+renamed and repackaged some classes started work on the game board ,1
+Renamed ActionModifier methods returnsValue to returnValue and throwsException to throwException. ,1
+rename project start documentation,0
+Removing tabs in favor of proper indentation. Better now than later. ,0
+removed UserActionSupport ,1
+Removed unused code ,1
+Removed unnecassary jfreechart-0.9.8 library. Is replaced by older but smaller version of the same library. ,0
+removed some typos ,0
+removed old buildung icons for fortifications added info for max Horses (walking and riding) added Icons for buildings in faction stats some new icons for items ,0
+Removed JMock dependencies ,1
+removed id cvs tag from header ,0
+Removed file/folder,0
+Removed file ,0
+Removed event handling and made the expectations a Verifiable ,1
+removed class Herb ,0
+Removed AGAIN ,0
+removed ActionTextField ,0
+Removed a lot of junk for ordered sections. Decided to put that logic into the ExpectationVisitor instead. Lets see if we have better luck with that. :-) ,1
+Removed 1.3 incompatible constructors ,0
+Remove: not used anymore after the refactoring ,0
+remove obsolete lisp folder,1
+remove obsolete functions package,1
+remove diff information in activitymail ,0
+release preps ,0
+release preparations ,0
+Release 1.0,0
+release ,0
+relaxed some requestFocus for new temp units ,0
+Rejigged adding participants to games debugged GameClientInternalFrame constructor and added GameClient to constructor arg list set PlayerDetailPanels to be added dynamically ,0
+reimport after cvs cleanup ,0
+Refactoring: test for stackhandling,1
+Refactoring: Template.compile returns a BaseFunction,1
+refactoring: Scheme primitives are not longer defined as standalone classes but as static BaseFunction instances in class SchemePrimitives,0
+Refactoring: restructure init.lsp first attempt at lerec macro ,1
+refactoring: replace asm 3 jar by asm 4 jars,0
+Refactoring: Repl ist no longer required to extend ClassLoader,0
+refactoring: reorganized package structure to better reflect a layered approach,1
+refactoring: print stacktrace in case of compilation problems,1
+Refactoring: moved Function to root package as it is meant as public interface ,1
+Refactoring: moved currying to Template,1
+refactoring: move all function instances to a single java class SchemePrimitives,1
+Refactoring: made CstInt more robust for switching between Integer and BigInter arithmetic,1
+Refactoring: getting rid of LTerms,1
+refactoring: get rid of fun4j template instance use static functions everywhere in Template class,1
+Refactoring: generate optimized code for expression compilation (avoid sub-calls from apply to applyInternal),1
+refactoring: extracting symbolic constants to new Interface Symbols,1
+refactoring: extracting handling of specials in precompile to separate methods. prepare handling of let special.,1
+Refactoring: extract pre-compiler to a separate class. Now the Compiler doesn t know anything about LISP but only about AST Expressions. This way it can easily used by users to compile their own functional languages.,1
+Refactoring: eliminating LTerms as intermediary AST structure,1
+Refactoring: clean up parser,1
+refactoring: be on the safe side regarding empty collections !,0
+refactoring: allow static import of Template instance,1
+refactoring tests,0
+Refactoring PowerAllocationDialog to include Shield Allocation ,1
+Refactoring message handing switch statements into CommandProcessor CommandHandlers ,0
+refactoring ant: added preprocessing to have current revision number available in Version Class ,1
+Refactored to use simple services ,0
+Refactored to use ServiceFactoryTestCase ,1
+Refactored the documentationContext to be a documentation controller and added a new Context that can be serialized to disk. ,0
+Refactored modifications to remove dependencies on implementations. One to go: ExectationModifierImpl should depend on LastInvocationProvider ,1
+Refactored mocking and stubbing of especially objects. Removed some unneccessary interface methods and added some more javadoc ,1
+Refactored mocking and stubbing of especially objects ,1
+Refactored iterator and actions. Also added the posibility to modify expectations and to provide parameters to calls using forEach() constructions ,1
+refactored ImageFactory ,0
+refactored GenericRules ,1
+Refactored for the new TDDoc strategy  now a builder can listen to TDDoc events and create  a structire that is serialized to disc  containing the suits and tests that were run  in the order they were run. Later more information such as serialized dynamic contexts will be made available via this structure. The structure can the subsequently be read and used to generate documentation from the data available via the structure. ,1
+Refactored class names so that expressions is the rrot type. Expressions can be built up from single constraints  or any combination of constraints  operators and nested expressions. Currently the following operators are implemented: and (&&) or (||) xor (^) not (!) ,1
+refactor base AI classes ,1
+reduced sent informations ,0
+really small change,0
+re-factored threat handling,0
+Raised test coverage slightly ,0
+Quickly added needed constraints to make a working test-suite ,0
+quick fix to remove readonlyexception ,0
+Print stacktrace of caught exceptions additionally to meaningless error message. ,0
+print AST Expressions as lisp terms,0
+Prevent RegionType.toString() from delivering null ,1
+Prepared for sequence diagram generation ,0
+prepare handling of exception handling within ASM compiled Expressions,0
+preparations of new release ,0
+preparations for new release ,0
+preparations for initial release ,0
+preparation for new release ,0
+Polished the testCoverage by testin NULL instances. ,0
+Polished testCoverage ,0
+Point Defence system allocation ,0
+plugin stuff ,0
+Playing with options for Prefect Planet rendering ,0
+Picking up RMockServiceFactories from META-INF/services instead of classpath ,1
+performance optimization:  - eliminated BaseFunction.apply + applyInline Template method pattern to keep stack shallow - replaced tracing by bytecode enhancement based tracing. That is no performance overhead if tracing is off.,1
+Patch von Salthan (stm) Coordinate --> CoordinateID Ich habe die Klasse Coordinate in CoordinateID umbenannt. Das erzeugt natÃ¼rlich einen Haufen Ã„nderungen  aber erstens ist es analog zur Benennung der anderen Nachkommen von ID (EntityID  UnitID  ...) und zweitens sensibilisiert es kÃ¼nftig Programmierer fÃ¼r das Problem der Verwendung von Koordinaten als SchlÃ¼ssel in Hashtables. Substantiell hat sich aber nichts verÃ¤ndert. Origin Transformation: io.cr.CRParser kann jetzt so verwendet werden  dass er den Report gleich beim Einlesen im Koordinatensystem verschiebt. cr.Loader/io.GameDataReader kann dadurch einen Report verschoben klonen. util.ReportMerger verwendet dies wiederum  um Reporte zusammenzufÃ¼gen  ebenso wie demo.SetOrigin und swing.contextMapContextMenu. AuÃŸerdem verhÃ¤lt sich der ReportMerger jetzt eine Nuance intelligenter beim ZusammenfÃ¼gen. DafÃ¼r flog placeOrigin(...) in GameData raus. Und noch was ganz anderes: SplitSets-Reihenfolge (com.eressea.demo.desktop.MagellanDesktop) Beim Einlesen der Splitsets aus der desktop.ini-Datei werden die Splitsets jetzt in der Reihenfolge eingefÃ¼gt  wie sie in der Datei stehen und nicht mehr willkÃ¼rlich  wie bisher. Und zuletzt habe ich die Methode parseBuilding in io.cr.CRParser noch gefixt  das war mir im Zusammenhang mit dem TraumschlÃ¶sschen-Bug aufgefallen. ,0
+our logo,0
+organized imports ,0
+Organized imports ,1
+Optimized imports ,1
+Optimized import ,1
+Optimize imports ,1
+open tasks fixed and improved faction ordering in factionstats improved,0
+oops ,0
+One task less on the TODO-list ,0
+on the way to LETREC !,0
+on the long way to LETREC,0
+ok ,0
+Not much ,0
+news fix ,0
+news entry ,0
+newer looks library ,0
+new transparent images (415pcs),0
+new testcase for letrec: does not work yet ! note to self: fix it ASAP !!!,0
+new test cases,0
+New interface for the TestCaseListener ,1
+new icons,0
+New helper classes brought across ,1
+new feature: tracing of function applies,0
+new feature: support for java method calls from lisp function via . operator,0
+new Feature: support for covariant derivations of the Function Interface.  Provides more type control. As a first step I ve introduced a new interface Predicate (Object... -> Boolean) that extents the Function interface.,1
+new feature: support both DOT operator and dotted pair syntax,0
+new feature: simple lisp interpreter in jlambda lisp,0
+new feature: set! primitive,0
+new feature: scheme primitive interaction-environment,1
+new feature: scheme (begin x y x ...),0
+new Feature: real closures + currying,0
+new feature: quasiquote will work sooner or later...,0
+new feature: quasiquote provide evaluation of qq during parse phase,0
+new feature: quasiquote as I said: after some massaging the code it finally is working... ,0
+new feature: quasiquote  @ is still making trouble ...,0
+new feature: quasiquote,0
+new feature: provie a hook mechanism that allow to invoke functions from anywhere in the fun4j runtime environment. new feature: scheme string operations,0
+new feature: provie a hook mechanism that allow to invoke functions from anywhere in the fun4j runtime environment.,0
+new feature: provide primitive that invoke JVM garbage collection.,1
+new feature: print offending lisp term on error during (load  file),0
+new feature: precompiler allows to toggle between inlining primitive operations and proper function calls.,0
+new Feature: Parser can now read decimals and negative numbers FIX: parser is now more tolerant wrt. whitespace. ,0
+new feature: new primitive operation <=,0
+new feature: new functions implode explode staticfunction,1
+new feature: more primitives as java coded functions,0
+new feature: making printdepth and printlength available from lisp,0
+new feature: macros ! now we can use defmacro to create let as simple macro. ,0
+new feature: lketrec by lambda  not yet finished... ,0
+new feature: Lisp varargs semantics implemented. E.g. (list 1 2 3 4) => (1 2 3 4),0
+new feature: LETREC finally got working based exclusively on lambdas. example: (letrec ((even? (lambda (n) (if (zero? n) true (odd? (sub1 n)))))  (odd? (lambda (n) (if (zero? n) false (even? (sub1 n)))))) (odd? 37)) ;; is expanded to: ((lambda (even? odd?) (odd? 37 even? odd?))  (lambda (n even? odd?) (if (zero? n) true (odd? (sub1 n) even? odd?))) (lambda (n even? odd?) (if (zero? n) false (even? (sub1 n) even? odd?))))   ,0
+new feature: let*,0
+new feature: lambda may be abbreviated as \,1
+new feature: implement letrec (needs some optimization),0
+new feature: global (tracing true/false) facility that calls (trace fun) for all functions defined in the global environment,0
+new feature: generic Parse operation that allows to parse strings into arbitrary lisp terms. e.g. used in string->atom,1
+new feature: functions carry and use arity information,1
+new Feature: Functions can now be generated from Java Method calls in Funcito style syntax,0
+new feature: function composition,1
+new Feature: foldright for Collections,1
+new Feature: compiler can now be explicitely  invoked from REPL,0
+new Feature: Collection to cons conversion,0
+new feature: Collection API,0
+new feature: closures at last! lambda terms now can refer to variables from an outer call siteas in (lambda (x) ((lambda (y) (+ x y)) 5)),0
+new feature: building a no dependency jar based on the jarjar Link tool,0
+new feature: basic prettyprinting,0
+new feature: Api methods of Collections APi etc. will be available in lisp environment for a seamless switching between API and lisp calls. (work in progress),1
+new feature: Api methods of Collections APi etc. are made available in lisp environment for a seamless switching between API and lisp calls. Update testcases,0
+New Feature: allow user defined java Functions in Lisp,0
+new feature: allow optional parameter in read to provide support for printing an input prompt like in (read (prin  input:)),1
+new feature: allow function defines in scheme syntax (define (fun x y z) body),0
+new feature: allow automatic registration of Function definitions in package org.fun4j.functions.  The new mechanism works in file-system an when loading from jar file.,0
+new feature: added parse(lispterm) to Template API,1
+New Feature: added more switches to the Template Facade class,1
+new feature: added function call statistics to the repl,0
+New Feature: added closures and currying. NewFeature: higher order functions API for Java Collections,0
+new feature: added a simple prettyprinter,0
+new feature: add support for non-destructive sorting of list based on predicates.,0
+new Feature: Add support for explicit lambda terms as functions (work in progress),0
+new feature: add prettyprinting routine,0
+new feature: add more scheme primitives,0
+new feature: add more scheme math functions,1
+new feature: add more scheme functions,0
+new feature: add lisp operations to Cons,0
+new feature: add a new static method fn(String lambdaTerm) that allows to define Functions based on lisp code with minimal coding overhead in user code  like in this example: Function add = fn((lambda (x y) (+ x y))); cleaned up compilation exceptions,1
+new feature: + and * allow arbitrary number of arguments. (+ 1 2 3) -> 6,0
+new Compiler expression for letrec variable binding,0
+new beta release :-) ,0
+multiple enhancements  basically some preparations for adding game support for different games ,0
+Moved xdoc->xdocs ,0
+Moved to the proper source root... ,0
+Moved to META-INF services ,0
+moved to activitymail 1.6 ,0
+Moved the TestCaseListener to core.events ,1
+Moved testEquals to another testcase ,1
+moved some files ,0
+Moved A  S  C and M into RMockTestCase and changed them to normal members. ,1
+move report.php to report/index.php ,0
+More work to instantiate a game ,0
+more work on vehicles ,0
+more work on vehicle design ,0
+More work on the SelectFiringWeaponsDialog ,0
+More work on the Infantry Squad Movement Dialog ,0
+more work on the basics of element threat calculation ,0
+More work on Prefect Maps ,0
+More work on Point Defence Allocation dialog ,0
+more work on placement ,0
+more work on opportunity fire resolution ,0
+More work on Opportunity Fire ,0
+More work on Mapping ,0
+More work on Leviathan Movement Phase ,0
+More work on internal structure template ,1
+more work on initial placement ,0
+More work on Infantry Movement. Added Building interaction (enter  exit  up  down etc) ,0
+More work on game boards and terrain ,0
+More work on Game and GameServer ,0
+More work on CapitalShipStatus ,0
+More work on CapitalShip Weapon Mounts ,0
+more work on artillery declaration ,0
+more work on applying damage to CapitalShip ,0
+more translation stuff ,0
+more todos ,0
+More threat register work,0
+more po stuff ,0
+More of the engine accessible via the Bus ,0
+More mucking around with sheet dialogs ,0
+more mucking about for not much result,0
+more msgs ,0
+More map analysis work ,0
+More map analysis ,0
+more manual updates ,0
+more localization ,0
+More game work ,0
+More functionality in place for the new parser. The skeleton is in place but no flesh yet. ,0
+more fun with closures...,0
+more fixes ,0
+more files ,0
+more fighter unit work ,0
+More element placement code ,0
+More disconnection handling ,0
+more debugging and tweaks ,0
+More debugging ,0
+more debug ,0
+more commit informations for pavkovic@users.sourceforge.net ,0
+More code added to Painting Declaration Phase ,0
+more classes ,1
+More changes to load capital ships from xml ,0
+More changes to bring Infantry up to scratch ,0
+More basic units ,0
+more basic script groundwork ,0
+More additions to Painting resolution ,0
+monolithic jar loader ,0
+missing keys ,0
+miscellaneous stuff ,0
+misc fixes ,0
+Minor tweaking ,0
+minor stuff ,0
+minor project file shuffle ,0
+Minor mucking about with line of sight ,0
+minor formatting changes ,0
+minor fixes ,0
+minor fix ,0
+Minor cleanup ,0
+Minor Changes Added test class for probability ,0
+minor changes ,0
+minor adjustment ,0
+migrated to Eclipse 3.2.2 ,0
+Messing about with Sheet Dialogs ,0
+merging bug with groups fixed ,0
+merged Mac OS Makefile patch ,0
+merge with repository on eressea.upb.de ,0
+merge with eressea.upb.de ,0
+merge ,0
+MemoryManagment,0
+MapContext: fixed UpdateSign,0
+Many many changes. Mostly to do with getting source and target hex selection working ,0
+manual update ,0
+Makefile ,0
+make version fields public,0
+make functions Serializable,1
+major code refactoring. Expect things to be broken. ,1
+mail-bot translation update ,0
+Magellan repository creation ,0
+Made Turn Details Panel a bit better for the longer sub phase names ,0
+Made the remaining elements to move calculations consistent Added a heap of logging ,0
+Made docbook parameters configured ,0
+Made docbook parameters configurable ,0
+Lots of work on Leviathan Movement Phase Unit selection is broken again. Probably due to Affiliation work. LeviathanMovementRound is broken when selecting units to move. ,0
+lots of progress again ,0
+Lots of minor fixes ,0
+lots of improvements ,0
+lots of changes ,0
+looks like lisp 1.5,0
+Logger.java: reduce logger to singleton object. GenericRules.java: reactivated support for I8N. EresseaOrderCompleter.java: prevent NPE in IgnrCsComp. MagellanUndoManager.java: catched exceptions while undo/redo to keep system alive. ,1
+license fix,0
+license change. Fuck the GPL welcome ISC.,0
+level change for new skills not notified correctly while merging ,0
+letrec example (does not yet work properly...),0
+late commit ,0
+laf panel ,0
+Just exctracted the connection point to a separate class. ,0
+Just checking in to have it all in cvs. May not compile. ,0
+Jedes Projekt sollte ein Changelog-File haben. ,0
+javaDoc typo ,0
+JavaDoc ,0
+japanese localization update ,0
+integration work to get weapon fire declaration phase happening ,0
+Inline Apply,0
+Initial upload ,0
+initial transfer ,0
+Initial revision ,0
+initial checkin ,0
+initial checkin,0
+initial checkin,0
+initial check in,0
+infrastructure for requesting offboard asset selection ,0
+Infantry now drawing ,0
+indentation ,0
+indent ,0
+Increase version number to 4.2.0 to make sure we can idnetify new sources ,0
+incoming browse fix ,0
+Included **/Test*.java instead of **/*Test.java in maven Junit tests to run ,0
+include cglib stuff in fun4j jar. allows to start the repl it with java -jar fun4.jar,0
+Improved testcoverage but adding testcases  refactor away FactoryFactory:s etc. Updated version number. ,0
+improve junit target for jenkins CI,0
+Imported Centurion Maps 2 and 3 ,0
+import fixes ,0
+Implemented sending of mark events so that from(id) to(id) constructs are availabelï¿½ on  a codeblock. ,0
+Implemented references. References gives greater flexibility when it comes to describing refernced objects. IE if an expresison is refereced you want to pass the describer to the expression (expression.describeWith(describer) but when a regular object is referenced you want to describe it directly with describer.describeReference(object.toString()). References makes this possible by changing the reference type. ,1
+Implemented Modifier and array references ,0
+Implemented content describer and prepared removal of the Describable interface. ,1
+Implemented ConstraintDescriber and removed the Describeable interface from Constraint to make constraint descriptions more unified and explicit. ,1
+Implemented comparable on references and implemented a lessThan constraint ,1
+Implemented an action to add found classes to a Suite ,0
+implemented <= and >= constraints ,1
+implement lisp unit test including exception catching (first draft),0
+implement exception catching,0
+ignore .settings ,0
+idea: using applyInline to implement let (ATM this works only for non recursive functions),1
+iconwork1_2,0
+icons look ok ,0
+icons ,0
+i18n/l10n updates ,0
+i18n merge ,0
+i18n ,0
+http://eressea.upb.de/mantis/view.php?id=383 PFLANZE ,0
+http://eressea.upb.de/mantis/view.php?id=344 http://eressea.upb.de/mantis/view.php?id=667 http://eressea.upb.de/mantis/view.php?id=591 Anpassung auf Hennings letzte Version. ,0
+http://eressea.upb.de/mantis/view.php?id=1175,0
+http://eressea.upb.de/mantis/view.php?id=1131 ,0
+http://eressea.upb.de/mantis/view.php?id=1103 http://eressea.upb.de/mantis/view.php?id=1161,0
+hotlist ,0
+hotfix for round 407 part II ,0
+Hopefully made the descriptions of ordered sections more clear. ,0
+hope I don not break anything ,0
+hooking up unit AIs to element events ,0
+Hooking up CapitalShip damage ,0
+Hooking element ais to ThreatRegister,0
+Hooking element AI movement calculation results to threat register,0
+hooked up listener ,0
+hm ,0
+hierarchy files updated verbose flags for most tools ,0
+hide jfreechart-0.9.8 in release for now ,0
+gui tweaks ,0
+group commits for activitymail by environment variable USER ,0
+Got the testStructure to render. It is semi-pretty with no details about the tests other than the names and class-names ,0
+gnutella works again somewhat ,0
+gnutella compiles again ,0
+Getting started Tutorial,0
+getting ready to release ,0
+Getting first cut of 3d boards to display,0
+get version from txt file ,0
+generic unsynchronized event list ,0
+Generating the expectation message can throw exceptions which can give you a StackOverflow while throwing that exception. Now we catch runtime exception and print only the message if a runtime exception is caught. ,0
+Further work on requesting AIs ,0
+Fundamental changes to Sprite class to better use inheritance ,1
+found reason for fog of war bug. Removed temporary fix ,0
+found dead locking probs ,0
+Found an isSatisfied case that I hadn t thought about  if the current visitable is satisfied but there are subsequent unsatisfied visitables in the ordered section. ,0
+forgot to add lock.php ,0
+forget the important new File: ReserveRelation.java,0
+focuses and gui tweaks ,0
+fixes for magellan  and a compact mode ,0
+fixes and features ,0
+fixes ,0
+fixed uploads ,0
+fixed update bug teachers fixed update bug new/added CR,0
+Fixed the assertThat message to be easier to read ,0
+Fixed the (c) text so that it appears before author ,0
+fixed some typos ,0
+fixed some stuff ,0
+Fixed some misspelling Added testcase for expectThatExceptionThrown ,0
+Fixed so that RMockTestCase does not thro AssertionFailedException for all exceptions which solved the errors reported as exceptions bug. ,0
+Fixed so that operators are sent to the parser output ,1
+Fixed small bugs ,0
+fixed show stopper ,0
+fixed NullPointerException ,0
+Fixed minor problem with Ammo Explodes ,0
+Fixed minor bug in movement phase that stopped last element being moved ,0
+Fixed large problem with duplicate elements on the server fixed movement issues ,0
+Fixed interface stubs which solved most failing testcases ,0
+fixed imports ,0
+fixed icons ,0
+Fixed escaped underscores ,0
+Fixed documentation ,0
+fixed dependency ,0
+Fixed constraint descriptions ,0
+fixed completeRoadConnection,0
+fixed compile errors ,0
+Fixed classpath and projekt file for eclipse ,0
+fixed character stuff ,0
+fixed bugs ,0
+Fixed bug where we looked for a call with Exception  but it should be Expectation. ,0
+Fixed bug in bugfix for unique mock names. ,0
+fixed bug #773 ,0
+fixed bug ,0
+Fixed auto deployment bugs ,0
+Fixed another bug in UnitContainer.merge. RegionTypes were not set correct under all circumstances (mainly in connection with RegionType.unknown). ,0
+Fixed a bug  the configurator did not add simple services to the hub ,0
+fix: using ;; as comment sign,0
+FIX: update project links to SF.net,0
+fix: toFunction now also works for static Methods ,0
+FIX: repaired handling of BigDecimals cleaned up handling of lambdas and macros,0
+FIX: repaired broken html link to download page,0
+fix: Removed RMockSystemError ,1
+fix: Release notes and other release stuff ,0
+FIX: produce correct closures even if function is called with 0 arguments,1
+FIX: Parser must handle useBigInteger switch correctly,0
+fix: Optimization  getBeanInfo is extremely slow. RMock and rDoc run much faster with this optimization. Even with the optimization in place most CPU and memory is consumed in getBeanInfo so the next stap should be to get rid of that call aswell. ,0
+fix: No recordings are made when the mocked or intercepted object is making calls to itself in the constructor. ,1
+FIX: multiple calls to macros did not work CstObj fixed,0
+fix: make sure undefine is called before define,0
+Fix: made StringUtils static ,1
+fix: InterfaceNotAllowedException is now thrown when trying to provide an interface to mock-  intercept- or monitor methods reserved for classes. ,1
+fix: Improved exception handling and fixed bug 1432790 ,0
+FIX: handle lambdas correct!,0
+FIX: getting rid of compiler warnings,0
+fix: get rid of warnings,0
+fix: Fixed the hairy bug with premature disconnection from the hub in cases when EngineException was used. The problem was that the hub.endScope() call in the finally clause of runBare in RMockTestCase cleared the hub from objects needed by the lazy getMessage() on EngineException (which was invoked at a later stage). ,0
+fix: Fixed some bugs in sequence diagram generation ,0
+FIX: fixed reading of svn revision,0
+FIX: Fixed a bug in MethodStep where methods in superclasses of the testcase were ignored silently resulting in green bar because tests in the superclass were not run (althogh they were reported as successful) ,0
+FIX: Compiler maintains uniqueness of compiled class names.,0
+FIX: clean partial application stuff,0
+fix: ClassNameConstraint showed the wrong name ,1
+fix: changed all occurences of def to define,0
+fix: Bug with CglibProxyFactoryFactory  it didn t return the correct interface (and there were no test case for it!) ,1
+FIX: boolean Expression must explicitely cast their arguments to Boolean ,1
+fix: Array references do no longer throw NullPointerException when compared to a null-value ,1
+fix: arity stuff doesn t really work,0
+fix: add replacement for  *  in names of generated classes,1
+FIX made load a regular function,1
+FIX LTerms are strictly using BigInts,0
+FIX handle BigInts and Integers,0
+fix ,0
+first steps: integrate java dot notation based on JScheme approach.,0
+First scenario and locked designs ,0
+first running ai server version. Still buggy ,0
+First run through of firing phase retro-fitted weapons ignoring shields from VehicleSelectFiringWeaponsDialog to CenturionCombatEngine.makeFireAttempt Fixed equivalence test in VehicleDamageSummary ,0
+first draft of website,0
+First draft of stand alone expectations and constraints ,0
+First checkin ,0
+First attempt to provide code-snippets via QDox ,0
+finished the show capacity for all items - thing had to add Comparable Interface to ItemType feature request: added BACK button in showPotions,0
+finished multiple viewers menu ,0
+Finally made the EagerOrderedSection work!! ,0
+final stuff for the 2.3 release ,0
+final release preparations ,0
+final localization ,0
+fighting with a stupid firewall that wouldn t allow file timestamps to be updated ,0
+Featureenhancement: The amount of Silberbeutel and Silberkassette will be multiplied with the amount of persons in the unit carrying them. E.g. an unit with 50 persons will be shown as carrying 50 silver cassets instead of 1. ,0
+faq ,0
+FactionStatsDialog doesn t crash any longer if jfreechart.jar is not available in classpath. ,0
+Extensive work on CombatPhase ,0
+Extending Serializable is not required right now,0
+Extended GameData interface with a Map tempUnits and a method tempUnits(). Map tempUnits collects the temp units of a game data  similar as units holds the units. ,1
+Exceptions related to Resources ,0
+exception handler ,0
+Exception for modification problems ,0
+english: L instead of l. both languages: no \ in the orders. ,0
+download fixes ,0
+documentation: work in progress,0
+documentation: update api tutorial and include functional java examples ,0
+documentation: added Javadocs,0
+Documentation and cleaning ,0
+documentation,0
+dl fixes ,0
+direct browse ,0
+different icons for region-resources possible,0
+Described changes ,0
+defined Cons.equals (),1
+Debugging work ,0
+Debugging wierd behaviour ,0
+Debugging Point Defence phase ,0
+debugging opportunity fire ,0
+Debugging of maps and themes ,0
+Debugging movement phase ,0
+Debugging Leviathan movement phase ,0
+Debugging grounding crash ,0
+Debugging ,0
+debug ,0
+debian stuff ,0
+Creating new version 1.1.7 (Bugfix of vulnerable faction stats) ,0
+Creating new version 1.1.6 ,0
+cosmetics,0
+Cosmetic Changes to CapitalShipSprite ,0
+Cosmetic changes ,0
+Correctures ,0
+Corrected some problems with Hexagon and the intervening function Added some Leviathan Scenario code ,0
+Corrected small error in HowToRelease ,0
+Corrected misspelling of FileSystemClassIterator ,0
+correct wrongly displayed ship loading,0
+correct sending informations to multiple recipients ,0
+correct recruitment costs for orcs and again more icons added language support for production section in faction stats,0
+Completed refactoring to use Command processor ,0
+Completed player setup screen and registration of players Moving on to force selection screen ,0
+Completed painting allocation ,0
+compiles again ,0
+compile fixes bom fix ,0
+compile fixes ,0
+compile fix ,0
+commit test mit subversion,0
+code cleanup ,0
+Co-update ,0
+cmdl search ,0
+cleanup: we are alread rel 1.1 ,0
+cleanup: remove obsolete arity code new feature: added function call statistics to the repl,1
+cleanup: remove obsolete arity code,0
+cleanup: corrected output of Java defined functions,0
+cleanup: added comment with optional code to preserve stack depth,0
+cleanup import statement,0
+cleanup ASM warnings,0
+cleanup and performance ,0
+cleanup,0
+Cleaning up the version management a little ,0
+Cleaning up Dialog owners ,0
+cleaned up the lterms,0
+cleaned up compilation exceptions,0
+Cleaned up and renamed the tasks ,0
+cleaned up a bit,0
+cleaned makefile ,0
+clean up testcases,0
+clean up for 1.1 release,0
+Clean up BaseFunction ,0
+clean up ,0
+clean up,0
+Clean Up,0
+class stubs for map analysis ,1
+class loader ,0
+chausler ,0
+chat user ,0
+chat beep ,0
+chat ,0
+Changes to some sprite painting ,0
+Changes to InternalFrameManager ,0
+Changes to FiringAttemptOrder and FiringAttemptPacket to help determine what weapons the FiringAttemptPacket is using ,0
+changes ,0
+ChangeLog upload difficult...encoding error,0
+changed title ,0
+Changed the name of the annotate method to the more appropriate name monitor ,0
+Changed src path for generated sources ,0
+Changed order on hub calls ,0
+changed order of tabs. ,0
+Changed new Multiplicity to the equivalent from().to() construction ,1
+changed my mind ,0
+Changed member variable m in RMockTestCase to expect ,1
+changed mail information to eressea-commit@lists.sourceforge.net ,0
+changed mail header for target magellan ,0
+changed identifier ,0
+changed header ,0
+changed equals method and calls to e.printStackTrace to log.error(e) ,1
+changed AutoDownload stuff ,0
+change: Removed InvocationEventSource structure and the old invoke method on InvocationListener ,1
+change: removed docbook generation and added clean ,0
+CapitalShipPowerAllocation class added ,0
+Can now load and dump all core vehicle designs ,0
+build: generate complete source distribution with src doc test lib and all other stuff,0
+bugzilla bug 801: => newer regiontype overwrites elder regiontype ,0
+Bugfixes BEFORE & AFTER ,0
+Bugfix: Merging of UnitContainer was broken. RegionTypes could be overwritten with RegionType unknown when only seen from astral space. ,0
+Bugfix in reportmerging: When determining a translation for coordinate systems  regions with region type unknown (most likely schemes) are ignored now. ,0
+Bugfix in algorithm for translation of coordinate systems in astral space when merging reports. ,0
+bugfix ,0
+bug in parser that prevented correct reading of ItemCategory rules. ,0
+bug fixes ,0
+bug fix: fix toString(),0
+bug fix ,0
+Brought Leviathan up to the point where scenarios load and the map board draws ,0
+broke resumes  will fix tomorrow ,0
+break ,0
+bitzi and seach result action provider ,0
+big stm-patch ExpandSelection captain orders,0
+Basic work on SelectFiringWeaponsDialog ,0
+Basic Game Logging added ,1
+Basic documetation added for mocking interfaces ,0
+Applying damage to vehicles from weapons ,0
+Apply Inline works inline rcursion is still open,0
+apexo: added enforcing ISO encoding for writing and   reading orders  and for feeding ECheck fiete: added preferences for TextEncoding stm: added support for new origin in messages stm: CoordinateID parser updated CRParser updated,0
+and  or  xor are now available from expressions. Not is available from the constraint-factory ,1
+Amended Vehicle Design Refactored VehicleInternalStructure Added loading Vehicles  Infantry and Crews to CenturionUnit ,1
+after moving the textures to a separate directory  the blender file needed an update ,0
+adjusted the Regions.getPath to like coastnear paths added in Region.java support for coast-near-detection,0
+Adding Visual C++ project files ,0
+Adding SkillChartPanel to Magellan core ,0
+adding off-board assets to unit at game start time ,0
+adding lisp files to executable jar,0
+Adding Infantry Squad movement evaluations ,0
+Adding destroyed vehicles that still contain elements to the eligible to move list ,0
+Adding damage to Movement phase from crashing and grounding ,0
+Adding a motivation section to the front page,0
+Added Winter scheme Started adding text colour to scheme to allow better visibility of hex numbers ,0
+added vinyambar II rules file update of ChangeLog,0
+Added velocity.log till ignores ,0
+Added VehicleSystem enum ,1
+Added vehicle images for Viper  Spartius  Romulus  Deliverer and Trajan ,0
+added updateUI for Tree in EMapOverview when orderconfirm to prevent JTree Bug,0
+added throttle ,0
+Added theme to board file ,0
+Added the Visitable interface  and started implementing the changes in the sections. The tests fails from this checkin ,1
+Added the output of <null> if the reference was null ,0
+Added the ability to get the source for one method. Also renamed a few classes to be more appropriate. ,0
+Added text labels to VehicleStructurePanel ,1
+Added test to some more methods. 98.4% TC!!! ,0
+added test cases ,0
+Added task to install parent ,0
+added support for writeTimeStampTag in OrderWriter,1
+Added support for translated ObjectTypes ,0
+Added support for selecting constructor when mocking objects. Moved testdata classes to com.agical.rmock.testdata ,0
+added some stuff ,0
+added some more test code ,0
+added some more operations to compiler,0
+Added some info on SCM in maven for sourceforge ,0
+added some files ,0
+Added some extra protective code around the end of the Power Allocation Phase. Updated scenarios to give Renegade ships some names ,1
+added some entrys to the FAQ ,0
+Added some documentation stuff ,0
+Added simples ervices and a Naming service ,0
+Added simple services ,1
+Added shading of verbatrim environments ,0
+Added selceted unit highlighting for movement phase ,0
+Added Rolled Images for Repulse ,0
+added rights for ukuester ,0
+Added release notes updated server and client number ,0
+Added release notes file ,0
+Added proxied connections to the HUB and the possibility to disconnect from the HUB ,0
+Added proper display for current off board requests when selecting new requests ,0
+added prio queue ,0
+added prefs ,0
+added preferences ,0
+Added PowerAllocationDialogTest Debugged CapitalShip constructor ,0
+added patch from sf bugfix #854732 ,0
+Added param to selectedLocation to allow differentiation between right and left click behaviour ,1
+added osx stuff ,0
+added options for openfilewithaction ,0
+Added numbering of sections Fixed indentation ,0
+Added note ,0
+added news entries ,0
+added newline ,0
+Added new nicer rMock logo ,0
+added necessary newline at end of file ,0
+added more placement code ,0
+added more convenience methods,0
+Added monitoring support to RMockTestCase. Refactored the ProxyFactory test cases. Created a ConstructorFinder to use when mapping an object array to a constructor. ,0
+Added mocking of concrete object with constructor parameters for unique constructor signature. Restructured the testing of ProxyFactories to enable testing multiple proxyfactory frameworks  and simplifying the testing of different mock factory methods. ,1
+added missing file ,0
+added media type ,0
+Added maven2 support to generate pdf  html and html chunked for documentation. ,0
+Added maven.sourceforge.username ,0
+Added map scrolling to capital ship movement ,0
+added mail sending to eressea-magellan@eressea.upb.de ,0
+added loginfo for mailing list eressea-Developers@lists.sourceforge.net ,0
+added little quicksort example,0
+added links ,0
+added limit controls to transfer tab ,0
+added libs ,0
+added library path for jfreechart.jar ,1
+Added Liberator Images ,0
+Added Leviathan Ship Designs ,0
+added jMonkeyEngine to the classpath,0
+Added jdk information ,0
+Added javadoc for throws ,0
+Added Internal Templates for Patrol class ships Added text templates Gunboat to Cruiser Work on Leviathan Movement Phase ,0
+Added intercept methods without id parameters ,1
+Added information about how to distribute files at sourceforge.net ,0
+Added images for Lupis APC Implementation for Painting Decleration ,0
+added icons for races (eressea specific) added support for raceicons in EMapDetailspanel and Factionstats,0
+added icons for age groups and prefix,0
+added icons ,0
+added hunger.gif reworked plaf.ini,0
+added html faq ,0
+Added Horatius images ,0
+Added home-made Service to use instead of sun.misc.Service ,1
+added Henning s lat updates to detect @ ORDER illegal blanks ,0
+Added Groovy Jar file ,0
+Added GameElement base class and GameElementFactory singleton to take care of unique game element IDs ,1
+added function CRWriter.setUnits ,0
+Added first set of matchers for review ,0
+Added FiringWeaponPanel and SelectFiringWeaponsPanel ,0
+Added firing notification that shows fire declared in the same hex ,0
+added files ,0
+added file ,0
+Added factories for ResourceManager  TargetProvider and SourceProvider ,1
+added external module 3 + specialized loader,1
+Added ExtendedAssertionFailedError  renamed SetEntry. ,1
+Added effective range to CapitalShipWeapon Working on getting eligible target coordinates ,1
+Added dummy to avoid pruning ,0
+Added Design Place holders into the Plains theme ,0
+Added Design ,0
+added delete action ,0
+added debian stuff ,0
+added daemon panel ,0
+added context menu ,0
+added command line ,0
+Added class stubs for centurion game classes Started work on mapping for centurion Added property files for server and centurion client ,1
+Added changes ,0
+added block MAGELLAN to rules file  store GameSpecificStuff class name in this block ,0
+added better output to appendSpellinfo changed region.items to getting all items from faction with alliance state give activated added replacer for Region Coordinates X and Y fixed order of luxury goods in trade organizer (for khadar) reworked short eressea date for better english added another feature for showing capacity for all items in region fixed missing translation of settrustlevel.text,0
+Added basic shell of ServerManager ,0
+added bandwidth tracking ,0
+added Auto-FileName Generation for orderWriterDialog - new Class FileNameGenerator - new Class FileNameGeneratorFeed - new entry in preferences (Optionen) for editing the pattern,1
+Added assertThat method and modification of multiplicity ,0
+added all releases link ,0
+added acl list ,0
+Added a temporary  somewhat more elaborate  answer to what expectations wasn t satisfied ,0
+added a service to get call sequences for rendering in documentation ,0
+Added a sequence service to demonstrate that we can document call-sequences ,0
+Added a section on the importance of startVerification() ,0
+add: UmlGraphSequenceDiagramSubscriber and the structure to make it work ,1
+add: Two launch configurations ,0
+ADD: the possiblility to add TDDoc comments on class level. Implemented usage of TDDoc comments on the test class level. ,0
+ADD: Strategy testcase as a base for RMockTestCase ,0
+Add: reflection exceptions ,0
+ADD: Refactored the RMockTestCase to utilize strategies. RMockTestCase also got a verify-method that is invoked post-test pre teardown outside the finally-block. StartVerification is guaranteed to have been called in the verify method. ,1
+add: Clean ,0
+add: Added the possibility to expect that an exception should be thrown as a result of a test. ,1
+add: Added method to create monitor without parameter types to ProxyFactory instead of having RMockTestCase having to look up the best mathcing constructor. ,1
+add: Added escape handling for test case comments ,0
+add: Added changes for rc3 ,0
+add: Added basic templates for generatong documentation for rDoc ,0
+add: Added ability to setup threaded methods to be called before and/or during the test method. ,1
+add: Added a SequenceDiagramPublisher structure to create SequenceDiagram composites from invocation events. ,1
+Add: Added a main and a defaults section. Testcases starts adding expectations to the main section. The defaults section can optionally be overridden in the setup method (or whenever) in order to be able to specify stub methods (like 0..* methgods that are matched if no other expectations mathes in the main section). ,1
+Add: a code service ,0
+add version info to comments of Version.java,0
+add url for cvsweb access ,0
+add support for comments in selection files ,0
+add reference to cloudbees CI ,0
+add maven pom file,0
+add fallback for CVSROOT ,0
+Add convenient reflection utilities ,0
+add CGLIB license file,0
+adapted layout of vorbis viewer ,0
+activated preference listeners ,0
+actions ,0
+Abandoned MDI for the main client GUI. Implemented rough SDI. Cleanup required from here but this should enable all sorts of nice things from Swing which have been proving very difficult using InternalFrames ,1
+2003-12-03  Ilja Pavkovic  <pavkovic@users.sourceforge.net> * src/java/com/eressea/util/FileHistory.java: Prevent NPE if GameData is not loadable. * src/java/com/eressea/demo/Client.java: add support for zip files with multiple loadable entries. * src/java/com/eressea/demo/actions/OpenCRAction.java: Prevent NPE if GameData is not loadable. ,0
+2.4-pre1 ,0
+2.4-beta5 ,0
+2.4-beta4 ,0
+2.4-beta1 release preparations ,0
+2.3-pre3 ,0
+2.1-pre1 fixes ,0
+2.0-pre2 ,0
+1.0-pre6 ,0
+* Some menuItems only enabled when regions.size > 0 * fixed bug that heroes and age were not in CRWriter,0
+* Rewrote abstract * Other minor fixes ,0
+* Minor formatting improvements * Removed comments in pom ,0
+* ChangeLog: New Renderer SchemeCellRenderer. When activating an astral space region and then changing back to level 0 (normal world)  all regions that are schemes of the activated astral space region are marked as long as no new region is activated * Added picture for region type  Dichter Nebel (dense nebula) ,1
+* Added documentation ,0
+*  New Feature: Displaying of multiple units in EMapDetailsPanel. Up to now only selections of multiple regions or factions were supported. ,0
+- ZipFileType.java: prevent ZipFileException (create new ZipEntry instead of reuse). ,1
+- UnitContextMenu.java: added ShipRoutePlanner to shipowner context menu (bugzilla bug 793). - Regions.java: use of isOcean instead of regiontype comparation to reactivate ShipRoutePlanner (bugzilla bug 792). ,1
+- TreeHelper.java: added ship sorting by name and id. - CRWriter.java: respect sort index of factions.  - TaskTablePanel.java: added call to u.getRegion().refreshUnitRelations before adding unit problems. ,0
+- Ship.java: getMaxCapacity evaluates the capacity if not given from cr information (bugzilla bug 796). - GameData.java: postProcess sets locale to order locale if it is null (bugzilla  bug 780). ,0
+- removed AgingProperties - TempUnitDialog.java: set name from parent unit an mark it (bug 765). ,1
+- OrderWriter.java: #tag EINHEIT tag  value  instead of #tag Einheit tag value.replace(     ~ ) ,0
+- multiple source manipulation for a) remove dependencies to Coordinate b) remove dependencies to Eressea - Region.toString() changed its default behaviour and prints coordinates with      now ,1
+- MagellanDesktop.java: Prevent NPE on unconnected frame in FrameRectangle. bug #820 - JECheck.java: support english echeck locale. bug #822 - EventDispatcher.java: added Exceptionhandling while notifying listeners to prevent Queue to be killed. ,0
+- GameData.java: Remove merging bug for temp units (temp orders have been duplicated). ,0
+- EresseaMovementEvaluator.java: respect presence of GOTS (german: GDTS). ,0
+- com/eressea/*: changed equals to get rid of instanceof usage ,0
+ release preparations ,0
+ Merged fb-q branch back to main trunk. ,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
+#NAME?,0
