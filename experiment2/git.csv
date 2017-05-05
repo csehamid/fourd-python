@@ -1,0 +1,1000 @@
+commit,classifier
+you know ,0
+Workaround for JTextPane problem with Mac Java ,0
+Workaround for JOptionPane bug ,0
+Whitespace changes ,0
+whatsnew for 1.4.0 git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@124 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+whats new updated ,0
+Warnings about integration testing dangers,0
+Visitors can reject invitations not only hide ,0
+very tiny changes to wizard for UI cleanliness git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@7788 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Vertically center preview image ,0
+version is updated git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@5047 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Version increment  and installation instructions ,0
+Version control for incoming messages,0
+venus ,0
+Validating Time of created_at in all Models,0
+Using new shorthand notation everywhere,0
+userhistory  localize right menu titles git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@407 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+user.name test ,0
+Use various page name for agent and user chat ,0
+Use String.indexOf(char) instead of indexOf(String) ,1
+Use String.equalsIgnoreCase ,1
+use split   new Date(year month day) instead of fucking Date.parse ,1
+Use size set by option ,0
+Use same fixed handicap locations as in GTP specification ,0
+Use private mutex for synchronization ,1
+Use prefix gogui for preferences key ,0
+Use platform dependent modifier key ,0
+Use only two actions for setup mode ,0
+use new settings db to send email git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@118 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Use new response types for syntax highlighting ,0
+Use new function GuiUtil.setEditableFalse(JTextField) ,1
+use mysqlprefix in names of session vars ,1
+Use JTextArea instead of JTextPane if GNU classpath or option -fast ,1
+Use java.util.prefs for program history ,1
+use isNumber ,0
+Use IB.db_backed? to test if models are DB-backed. Dubious use of IB::DB for this purpose is deprecated.,0
+Use gg-undo if available ,0
+Use generics ,1
+Use fake go.dtd ,0
+Use etched border ,0
+use DPChart.getColors instead of getColor ,0
+Use different symbol for nodes w/o moves ,0
+Use colored non-transparent images again ,0
+Use  pageAdd*  events instead of special plugins methods ,1
+Use  chat.thread.id  var instead of  ct.chatThreadId  in templates ,0
+Updated tests for PHP s MibewAPI class to use MibewAPITestInteraction class instance ,0
+updated getcode  images for history git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@13 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+updated french localization git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@247 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+updated for jbds 3.0.1 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@22685 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Updated Flex Query URL ,1
+update types/pie.js ,1
+update token methods to ensure csrf token is always get setted ,0
+update string ids git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@470 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update Spanish (by Jesus Plaza) ,0
+update Simplified Chinese (by Xiaoyu) ,0
+Update server mode with debug or run git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1369 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Update resize.js to work with layout system ,0
+update release script ,0
+Update README ,0
+update raphael base library ,0
+update pie.html ,0
+update pie chat ,0
+update Persian (by Amir Khani) ,0
+Update Marionette.js to v1.0.0-rc6 ,0
+Update link ,0
+update license git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@606 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update Italian (Luca Sasdelli) ,0
+update Indonesian (by Adi Nugroho)  without images though ,0
+update index changes ,0
+update images git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@502 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update images git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@501 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update ids git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@423 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Update icon ,0
+update Hungarian (by Istvan Somlai) ,0
+Update help text ,0
+Update help text ,0
+Update Handlebars to v1.0.0 and recompile templates ,0
+update from CT32 git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@439 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update dpchart.pie.js  add event actions ,1
+update DPChart.getColors(c); and let it create more different colors ,1
+update download page git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@330 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+update dot.js ,0
+Update descriptions of ant targets ,0
+Update copyright year ,0
+Update copyright notice ,0
+update components ,0
+update component ,0
+update common ,0
+update comment for avatar csrf  and add csrf token check to permission page ,0
+Update comment ,0
+update button images git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@345 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Update after changing definition in Move.toString() ,1
+Update access permissions Add  -Indexes  option to .htaccess in root folder and remove .htaccess from plugins folder ,1
+Update ,0
+Update ,0
+Upadate widget. It can pass some data to server now ,0
+Unused duration gem removed,0
+Unify translations: update localization constants from legacy branch ,0
+Unify def_message macros ,0
+Undo last change ,0
+Undo last change ,0
+ui text missing git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2017 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+ua update git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@609 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+ua buttons git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@668 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Typo in comment ,0
+typo git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35953 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+typo git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1400 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Typo ,0
+typing notifications in chat window git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@70 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+type for series ,0
+Tweak Flex example,0
+Tune layout ,0
+Transmit status has no bearing on equality of Orders,0
+topoloy 1.1 ,0
+topology.min ,0
+topology enables drag scale fullscreen ,0
+tooltip svg bar chart line chart ,0
+tooltip getRange legend bug fixed ,0
+TODOs updated,0
+tip ,0
+Tiny code cleanup git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13461 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Timestamps not checked any more AR only sets them after save,1
+time_and_sales script now working ,0
+Tick message classes put into a separate source file,1
+thread.php: extract ok/error methods git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@119 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+This is a big commit regarding a huge flaw with the model for dealing with an eclipse VFS. Specifically  multiple eclipse file links can in fact point to the same absolute file  so using the absolute file as a key to map backwards to an eclipse-based path is unacceptable and can yield more than one answer.  This commit will cause archives unit test regressions  which I will work on fixing.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@8977 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+This commit forces the User to set a password for the Administrator before doing anything else after the installation. ,0
+The pre-chat survey in no longer displayed for an invited visitors. ,0
+the failing method was an old @FailureExpected due to upstream bugs which have been fixed git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@16216 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+testcase of svg ,0
+Test account verification,0
+templates for redirected page git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@172 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+tag fixed ,0
+Switcher status from Error to Warning to avoid model dialog if a module is not available anymore - it will be logged as warning by Eclipse statusmanager. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@4380 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+switch leavemessagesent to template git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@165 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+svgchart_rebuild ,0
+SVGChart --> SvgChart ,1
+svgchart ,0
+svg line chart chart ,0
+svg line chart and svg dpchart improve ,0
+svg line chart ,0
+svg 1.3 ,0
+support type for each series ,0
+Support for new versions of messages ContractData (v.8) and BondContractData (v.6),0
+Support for API 967 final  TWS 932 ,0
+submit ,0
+style && structuction change ,1
+style ,0
+Start with title GoGui ,0
+start heatmap ,0
+start coding ,0
+start ,0
+Specs fixed ,0
+Specs connectivity options needs to be changed to run tests,0
+Specs codestyled,0
+Specs can access the name of Rails app via OPTS[:rails]. Correct handling of json/xml specs  for Dummy Rails app.,0
+Specs added to assert hypothetical (what-if) OpenOrder,0
+Source for new Incoming message is either a socket or a data Hash.,1
+source common deps from update site instead of from svn sources git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18481 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Some messaging for runtime wizard git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@14438 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Socket now silently ignores nils ,1
+Small cleanup ,0
+Small change in formatting ,0
+slight size enlargement for second column git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3367 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+site update after 1.6.2 git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@632 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Simplify script requires,1
+Simplify contract builder,0
+Simple Rails integration spec for Order State,0
+Show program panel disabled if no program attached ,0
+show if group is online  filter out empty groups in redirect and visitor selector  captcha checkbox in settings git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@592 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Shorthand for IB::Models ,0
+Shorter comment ,0
+Setting up ui for addition of ear  ejb types git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1982 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+set timeout for waitUntil methods git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@43436 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Set Quaqua button property ,0
+Set player name from program ,0
+Set initial focus ,0
+set grid color ,0
+Separate Rails-specific specs into rails_spec,0
+Send command selected in list. Disable Run button if appropriate ,0
+Scripts documented,0
+script  project file  regenerated js git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@128 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+screenshot git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@8 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Scale histos to same x range ,0
+Save as UTF-8 ,0
+save & search git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@584 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+RSpec exclusion filters and top level metadata added,1
+right= will return 0 if the Contract type is not a put or call Change the printers to not use scientific notation Fix issues created with switching BigDecimal format ,1
+rewrite tooltip position commput ,0
+Reworked Messages::Outgoing socket-handling logics added #to_s presentation for messages that can be directly compared to gateway/TWS API message log file.,1
+Respect --port option for historic_data_cli example ,0
+Resources for settings pane git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@108 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Resolved ,0
+RequestMarketDataType documentation codes/constants and spec stub,0
+Replaced all mysql_free_result by db_free_result  except for the directory /install ,1
+Reorganized integration Order specs,0
+Renamed package from as.core.packages.types to as.core.extensions.archives Moving to a cleaner API which can be opened up logically and more easily extended. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3539 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Rename some packages ,1
+Rename Options.getString() to get()  isSet() to contains() ,1
+Rename menu label ,1
+Rename GtpNet to GtpServer ,1
+removed unnused imports (to correct warnings) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33717 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+removed src folder from source path git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1101 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Removed server process model and all references to it.  Now only a reference to the running server process is kept.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2209 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Removed old @todo ,0
+remove wrong configuration options (server type) git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@46 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+Remove unused variables ,1
+Remove unused variables ,0
+Remove unused variable ,0
+Remove unused local variables ,1
+Remove unused local variable ,0
+Remove unused local variable ,1
+Remove unused imports ,0
+Remove unused imports ,0
+Remove unused import ,0
+Remove unused import ,0
+Remove unused function ,1
+Remove unused data members ,0
+Remove unnecessary local variables ,0
+Remove trailing whitespace ,0
+Remove the makePackages script ,0
+Remove some margins ,0
+Remove some duplicated code in libs/chat.php ,1
+Remove some debugging output ,0
+Remove order_id aliases to local_id. Use just local_id no dirty tricks,1
+Remove option -ea ,0
+Remove one workaround for Mac ,0
+remove odd git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@127 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Remove obsolete constructor for sgf.Writer using moves from Board ,1
+Remove obsolete comment ,0
+remove null point ,0
+remove news.xml git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@418 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Remove executable property ,0
+Remove duplication from install/dbinfo.php ,1
+remove dot from visitor navigated to.. message git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@629 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Remove depricated calls to to_digit ,0
+remove default grid ,0
+remove bin git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@21670 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Release Connection.current API ,0
+Regularize spec suite options,0
+Registration form for Mibew Hosting. git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@546 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+regenerate javascript git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@98 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+regenerate javascript  adjust version git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@415 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Reformat to max 78 chars/line ,0
+Reformat ,0
+Refactor build_js_response function Rename it to build_widget_response and move to libs/common/response.php ,1
+refactor .tests.feature to .test.feature for consistency (JBIDE-8734) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34201 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+redirect to profile page after first login; informational banner when password is blank; do not enforce password change; rename Home -> Dashboard ,0
+rebuild code ,0
+rebuild ,0
+Readme fixed ,0
+README extended ,0
+Readme extended,0
+readme come on ,0
+readme ,0
+Read into array of bytes ,0
+Read ErrorStream unbuffered ,0
+Read bug fixed,0
+re-order main menu git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@642 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Rake versioning bug resolved ,0
+pt-br by Leandro Luquetti git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@587 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Provide a superclass for tests that require one test for every server type git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@39160 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+propagate typing notifications on server git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@69 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+project settings git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@123 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Print exception in uncaughtException() ,0
+preview.php -> themes.php git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@462 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Prettify some examples,0
+Prettify readme,0
+Preserve non-root game info as SGF properties ,0
+Prepare for version 0.9pre1 ,0
+Prepare for version 0.2 ,0
+Prepare for release 1.1pre1 ,0
+Prepare for release 1.0pre3 ,0
+Prepare for release 0.3.0 ,0
+preliminary french localization git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@204 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Prefer uneven number of pixels for field sizes. ,0
+Pre-release cleanup,0
+Plumbing necessary for Rails-specific specs to pass for Dummy app,0
+pie text optimize ,0
+pie ,0
+permissions git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@221 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+periodic updater also re-adds missing modules that *are* deployed but were removed incorrectly.  RHDS-204 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3984 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+path changes ,0
+page.html changed ,0
+OrderState is now received via OrderStatus OpenOrder,1
+OrderState fields added ,1
+OrderState defaults are nil. It is less misleading than zeroes.,1
+Order#serialize_with added ,1
+Order spec extended,0
+Order placement specs reorganized,0
+Order model cleaned up validations added,0
+Order messaging specs extended,0
+Order equality bug fixed ,0
+Order equality bug fixed,0
+Order and OrderState API extended ,0
+option_data script now working ,0
+Optimize ,0
+Opening the API a bit. This class could be a good candidate for Core git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@14714 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Open mibew.org link in the bottom of operators pages in a new window ,0
+Only JBoss servers are shown in view now git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1482 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+on drag ,0
+Object s methods callbacks replaced by functions ,1
+Note in self.future() convenience method that the next_expiry calculation is currently wrong most of the time; recommend manual specification until it is fixed. ,0
+NLS moved messages git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1378 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+nl dataset git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@621 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+nl  tr  pl buttons git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@672 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+NextValidId properly renamed,0
+news git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@417 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+New scripts working ,0
+New option data spec,0
+New ManagedAccounts message used for account verification,0
+new image git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@495 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+New fields added and correctly initialized in Order,0
+new dpchart.bar.js ,0
+new deployable factory for single deployable. will need a ui change shortly. poublisher for them git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2987 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+New analyze command type eplist ,0
+Namespace fixed ,0
+Namespace cleanup ,1
+namespace change ,1
+Moved themeMessage method from ThreadProcessor to Thread ,1
+Moved many interfaces into as.core.server for public access Moved PollThread and ServerStatePollerType into as.core.server.internal Moved the remainder of polling to as.core.extensions.polling Moving to a cleaner API which can be opened up logically and more easily extended. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3545 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Moved database.php to libs/classes directory and related test case to tests/webim/libs/classes ,0
+Move the examples to the bin directory ,1
+Move saveCallback and loadCallback to RequestProcessor class ,1
+Move message kinds from message view to message model ,1
+move js git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@414 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Move GuiUtils from package gui to utils ,1
+Move files into lib ,1
+move CustomEvent from global to DPChart namespace and reduce prototype ,1
+Move control.handlebars template to default JavaScript application ,1
+move chat.css into templates git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@446 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+Move all classes to namespace net.sf.gogui ,1
+More work on GtpStatistics ,0
+More updates after moving to new namespace ,0
+More translations ,0
+More specific SymbolError handling ,0
+more logos git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@638 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+More internationalization ,0
+Monolitic IB::Messages::Incoming source file broken down finally,1
+Modified PluginManager to store plugins objects and use objects with regular methods instead static one ,1
+Modified Messages to use new Underlying object,1
+modified forex.rb; tests pass ,0
+Modified forex.rb from rab1234-develop ,0
+modified bin/historic_data ,0
+Models are now fully DB-backed ,0
+ModelProperties now use ActiveSupport::Concern (see Rails Next Supermodel),0
+model.total float bug fix ,0
+Model.prop macro added,1
+Model validations and DB backend ,0
+Model specs rewritten using metadata thousands of examples auto-generated,0
+missing file git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@42504 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Misc Ruby examples added ,0
+minor: spaces and tabs in views git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@115 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+minor: spaces and tabs  use select_multi_assoc git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@114 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+minor: formatting git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@112 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+minor: fix spaces git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@174 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Minor spec corrections,0
+minor change  update copyr git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@58 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+minor change  update copyr git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@56 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+min max ,0
+Messages::Incoming#load_map understands pre-conditions and versioning now,1
+Messages like RTBars etc implemented ,0
+Message specs prettified ,0
+Message specs cleanup ,0
+Message serialization should be primarily handled in Messages ,0
+Message classes improved,0
+Merge remote-tracking branch  upstream/master  into hist_data ,0
+Merge remote-tracking branch  ib-ruby/master  ,0
+Merge pull request #85 from topofocus/patch-1 Create snapshot_market_date,0
+Merge pull request #78 from davek42/fix_flex_query_url Updated Flex Query URL,0
+Merge pull request #62 from mnml0/master Respect the --port option in historical_data_cli example,0
+Merge pull request #51 from arvicco/master FLEX report example,0
+Merge pull request #49 from davek42/examble_bracket_order Created an example script for placing a bracket order,0
+Merge pull request #48 from arvicco/master Complete Rails Engine TWS 929 support,0
+Merge pull request #45 from rab1234/modify-forex.rb Modify forex.rb,0
+Merge pull request #43 from arvicco/master Fixing the fix,0
+Merge pull request #42 from arvicco/master More Rails models and minor bugfixes,0
+Merge pull request #33 from arvicco/master Bugfix release 0.8.4,0
+Merge pull request #31 from arvicco/master Specs for Rails integration Combustion alternative,0
+Merge pull request #27 from arvicco/master Update to TWS 926,0
+Merge pull request #23 from arvicco/master Fixes to improve DB backend functionality,0
+Merge pull request #1 from OSSG/master synchronization of the codebase,0
+merge liangliang ,0
+Merge branch  master  of https://github.com/DPF2EBS/venus ,0
+Merge branch  master  of https://bitbucket.org/island205/venus ,0
+Merge branch  master  of github.com:ricpruss/ib-ruby Conflicts: spec/internal/db/combustion_test.sqlite ,0
+Merge branch  master  of github.com:OSSG/mibew into ossg_master ,0
+Merge branch  master  of github.com:DPF2EBS/venus ,0
+Merge branch  master  of github.com:arvicco/ib-ruby ,0
+Merge branch  master  of bitbucket.org:island205/venus ,0
+Merge branch  index_fix  ,0
+Merge branch  develop  of github.com:ib-ruby/ib-ruby into develop ,0
+Merge branch  develop  ,0
+Market data request now working ,0
+Mark bin/ scripts as executable ,0
+Making ComboLeg join model work smoothly through associations,0
+Make WindowsLookAndFeel default on Windows; update JGoodies Looks version ,0
+Make user.dir default if no last file ,0
+Make this quirky work around for setting the final size of GtpShell work again ,0
+Make some private fields final ,0
+Make session information for game tree window work again ,0
+Make operator s email unique in the system ,1
+make it better ,0
+Make interrupt work again ,0
+Make constructor unavailable ,1
+Make class final ,1
+made the jboss server view s icons more eclipse like and rearranged/reworded the contributions in the lower half of the view git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2117 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Made message specs more precise,0
+lots of charges ,0
+Looks like i screwed up the toolbar when fixing the toolbar :D This should do it :) git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@325 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Login site - hope it works this time git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@536 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+load encodings from the master ,0
+link to visitors with or without menu git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@430 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+line dotradius ,0
+line chart bug fix ,0
+line chart bind model ,0
+line bug fixed ,0
+line bar bind model ,0
+line ,0
+limit number of threads from one address git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@459 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+license link fixed git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@6 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+legend bug ,0
+legend  bar ,0
+legend ,0
+leave message  check email  db encoding git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@38 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+layout ,0
+js versioning git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@618 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+JBIDE-9893 - browser open for ear project git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36431 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-9724 - fixed in beta1 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36186 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-9549 depend on http://download.jboss.org/jbosstools/updates/requirements/egit/1.1.0.201108230343 to resolve dep on eGit 1.1 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34181 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-9349  - updating default execution environment git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32939 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-9311 small adjustments to the publisher and an exception thrown in the publish method to ensure none of my code does such things again.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32742 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-9074 - to trunk for checking initial startup state and not starting a second time if server is already up.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31857 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8960 - removal of deprecated code git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31377 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8959 - fixes for as7    git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31376 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8838 reorder file to match other examples git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@39933 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8670 - new features git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@30222 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-828 - suspend / resume deployment scanner.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@6801 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8256 - patch to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@28665 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-8122 trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@28359 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-7920 - copying widgtes in deploy only server to first page git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@27962 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-7860 JBIDE-7934 cache classpath for each runtime but listen for runtime changes git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@27880 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-7831 Explore action doesn t work when server deployment directory contains space character git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@27622 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-7814 - updates to server log view git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@27533 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-7040 added plugins that seem to be required for UI to work with RSE. Need to be optional though. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@27528 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-6849 - removing the deployment assembly page in favor of wtp s  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@24200 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-6828 - cleanup and enhancement git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36864 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-636 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2887 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-6198 - mail and jsf api s used from jboss AS 5.1 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@28051 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5885 - NPE check - copied from branch to match  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@20434 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5836 - adding jstl.jar and support for jboss 6.0 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@20256 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5180 test issue  rename package git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18583 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5167 - added default key binding project archives ctrl+shift+B A git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18533 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5153 - user wants to edit main class git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18426 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-5049 - removed JRE tab as it was deemed useless git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18363 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4889 - committing once more with changes to ESB git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@19666 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-475 - archives progress monitors added git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@10384 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4519 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@16127 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4507 - wrong suffix on standalone utility jars git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@16034 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4275 - removing duplicate name section.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@15065 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4249 - vaguely-referenced dependency jars will now rebuild those that depend on them in the builder git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@16500 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4182 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@14784 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-4044 - NLS git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@14585 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-3806:Add version 4.5 to JBoss ESB list git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13636 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-3770 - changed ids to non-internal git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13745 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-3702 - index out of bounds in argutil git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13445 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-3493 nautilus command in explore action fails git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12912 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-3047 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@11856 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2893 NPE for fileset view provider git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@10834 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2814 - adding search capability for new jboss runtime git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@22758 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2776 saving packaging-convert git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@10257 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2697 - Stopping servers is buggy.  a for now fix which works.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@10037 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2627 - allowing any value set in the editor to be automatically added to the deployment scanner before each publish.   Also  separated out into metadata the default deploy location  giving each server its own folder.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12058 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2452 - build project archvies has a shortcut now git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@17040 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2288 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@8506 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-2217 - separating wst standard stuff into its own package... renamed to org.jboss.tools.as.wst.etc to please Maximus git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@8167 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+JBIDE-2048 - consolidating common server code / child modules etc git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@7513 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+JBIDE-1979 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@8089 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1793 - also fixed to use more standard wtp api git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@6513 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1485 - API slightly modified (safely fix!)  restoreDefaults implemented. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@5960 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1357 single deploy is publishing the complete project! (removed redundant line from previous patch) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@5048 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1354 - UI preparation by creation of a superclass git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33162 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+JBIDE-12733 to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@44044 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-12613 publish method interface is using concrete classes git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@43743 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+JBIDE-12494 to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@43982 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-12361 part 2 to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@42685 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-12360 uncommit a bad change git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@42684 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-12046 and JBIDE-12201 to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@42056 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11977 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@41330 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11615 : Remove ref to repositories. Expect them to be in ~/.m2/settings.xml git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@40452 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11594 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@40383 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11487 to trunk git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@40653 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11456 if graceful stop for as7-related servers fails  force-stop.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@40108 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11330 - as7.1 needs higher exec environment git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@39533 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1128 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@4432 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-11058 - test case never updated git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@40106 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10971 to trunk ensuring caches for xpaths are cleared after modifications git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@38930 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10718 forgot to uncomment two test lines git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@38198 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10514  -  recent change caused a regression for run on server. (Changed heirarchy of ExpressServer  forgot to implement IURLProvider) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@37809 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-1048 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@4278 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+jbide-1047 renamed rhdsTemp to jbosstoolsTemp as per max s request git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@4607 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+JBIDE-1047 Forked PublishUtil git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@4359 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10465 - removal of deprecated cruft git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@37269 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10344 - removed requirements on as.core  since I forgot to do that git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@37677 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBIDE-10224 - further work on credential callback usecase  required changes to poller API  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36742 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+JBDS-528 new info is added from wiki plugin page  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12940 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+It Compiles!  Not sure on if it *works* yet git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1912 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+it buttons  proper green buttons git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@658 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+issue ,0
+invalid symbol raises more helpful error message ,0
+Internationalize ScoreDialog ,0
+interfaces ,0
+interface forEach append ,0
+Integrate plugin system with mibew ,0
+Initial support for saving games in Latex format ,0
+Initial Selection Provider ensures jboss inc version is selected git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1481 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+initial commit of jsp2php converter git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@10 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Increment version number; update gemspec ,0
+Increase wait before send to at least 20s ,0
+Increase timeout ,0
+increase JMX code coverage a little to test coverage report git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@23392 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Increase history of recent commands ,0
+Incoming messages codestyled,0
+Improve tooltips ,0
+Improve tooltip ,0
+improve the tip ,0
+improve line ,0
+Improve layout ,0
+Improve handling of IB model defaults (were not set correctly under Rails),0
+Improve error messages ,0
+Improve error message ,0
+Improve documentation ,0
+Improve crash dialog ,0
+Improve Connection code quality by eliminating @server Hash. It was an awkward non-object anyways. Connection now exposes server-related accessors directly.,1
+improve ,0
+Implement as a parent-less JDialog ,0
+Ignoring stuff,0
+icons ,0
+IB::Model::Order specified ,1
+IB::Model::Contract::ComboLeg specified ,0
+IB::Model and IB::ModelProperties removed from IB::Models namespace for consistency,1
+IB::Messages::Outgoing code compacted using macros ,0
+IB::Messages::Incoming rewritten ,0
+IB::Connection#subscribe syntax changed ,1
+I ve to add //$NON-NLS-1$ behind BUILD FAILURE\n and BUILD SUCCESSFUL\n to make sure it is not interfere with build status analizer  it could be taken as real build output when it appears in warnings output git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@17039 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/RF-3937 git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@9173 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBIDE-5524 Debugger does not see source by default git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@19480 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBIDE-5103 License text is incorrect in update manager  Review Licenses  step during installing selected software licence text is fixed after verification on last build git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18813 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBIDE-4124 fixed  org.jboss.ide.eclipse.as.archives.integration.test plug-in is included in as.test.feature to fix test execution error git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@17166 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBIDE-3557 Externalise English Strings git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@15472 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBDS-737 easier to maintain if file only contains athena stuff  not athena + JMX git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@15542 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBDS-588 -  Old jboss server s view is completely replace with a new one.All the required changes connected to the Clean button removing and the new jboss server view were added to the JBoss Server Manager Reference Guide.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@14900 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBDS-537 guides versions are changed corresponding to plugin ones  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12842 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBDS-480 - updating the screens; git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13118 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/jira/browse/JBDS-439 - adding a new screen; git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12892 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/browse/JBIDE-6596 New Seam WAR project has incorrect deployment artifact structure isBinaryObject(moduleTree) updated since it is referenced from other plugins git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@23514 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+https://jira.jboss.org/browse/JBIDE-6381 increment plugin and feature versions git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@23286 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/browse/JBIDE-6381 increment plugin and feature versions git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@23284 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://jira.jboss.org/browse/JBDS-1202 problems running tests archives.test freeze fix git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@22535 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://issues.jboss.org/browse/JBIDE-9016 - Handling of code review git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34034 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+https://issues.jboss.org/browse/JBIDE-11396  changes to allow for proper icon for jmx connections git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@39815 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+http://jira.jboss.com/jira/browse/JBDS-326 folders En-us and publish and staging are removed from nightly docs build  variables for links will be checked then git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@8114 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+hr buttons git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@664 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+hover radius ,0
+historic_data script now functional ,0
+hippo 8 ,0
+hippo ,0
+highlight ,0
+hierarchical settings style git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@444 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+hiding items in main menu  proper title for login git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@410 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+headers for org.jboss.ide.eclipse.archives.webtools git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13392 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+having token checks on POST forms ,0
+grid ,0
+Got a full rails stack test mode working. Run with bundle exec rspec -rr spec/ib-ruby/models ,0
+google tracker  trilex logo git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@396 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+give you some color to see see ,0
+git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@655 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34853 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32585 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2100 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+getNodeById ,0
+getLength() bug fix ,0
+Get rid of next_order_id in favor of next_local_id,1
+Georgian locale (by George Zviadadze) ,0
+Generate a meaningful title for latex.Writer ,1
+General Documentation Updates git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@28901 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Gemspec fixed,0
+ga ,0
+Fundamental Data bug fixed bin script added,0
+fucking Date.parse ,0
+freetesting with max git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@12661 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+fr data set git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@661 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Formatting ,0
+format code ,0
+Forex symbols code simplified,0
+Forcing a selection event makes the icon bars reload. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1576 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Flush System.err after messages ,0
+Fixing specs for new DB-backed Models,0
+Fixing gemspec dependencies,0
+Fixing Contract accessors,0
+Fixing broken unit test git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@15269 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+fixed warnings (aded $NON-NLS  removed unneeded import) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@39141 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Fixed usage of Integer and Boolean classes. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@44053 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Fixed typo in example/historic_data thanks Dan Bikle!,0
+Fixed the bug with wrong by page statistics ,0
+Fixed the Blue Screen in Google Chrome 17+ ,0
+fixed some bugs in line Chart. ,0
+fixed namespace about canvseChart ,1
+fixed bugs ,0
+Fixed bug in def_message macro (redefining already defined accessors),0
+fix: do not cache button image (thanks to Alex Morozov) ,0
+Fix writing LB values ,0
+Fix user duplication in visitors and threads lists User can be either in threads list or in visitors list but not in both at the same time. ,1
+Fix typo ,0
+Fix typo ,0
+Fix the problem (by Mohsen) when fpassthru is disabled. git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@657 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+fix some bug ,0
+fix slashes and form value git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@448 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+fix pie bug ,0
+fix old chat style git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@461 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+fix move_uploaded_file errors ,0
+Fix minor buglets,0
+Fix layout problems on Mac ,0
+fix jmx.core.test errors git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@13243 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Fix javadoc warnings ,0
+Fix in comment change notification ,0
+fix image= parameter for hostgator git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@653 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Fix for last change ,0
+Fix for handling Time-element in XML ,1
+fix for compilation errors in as.test.core plugin missing ASToolsInternalVariableInitializer.java added with fake implementation git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@43454 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+fix for build error in as source feature git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@38077 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Fix failing specs for DB backend,0
+fix encoding of state  new way to store name in cookie git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@71 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+fix encoding in operators list ,0
+Fix docbook error ,0
+fix debug profile in pom.xml git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@42788 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+fix cr in .htaccess; disable drop tables; do not show change password/delete install folder if admin has password; check file permissions/checksum ,0
+Fix comments ,0
+Fix comment ,0
+Fix comment ,0
+Fix clock halt()  isRunning() ,0
+Fix check of existance of tables indexes during database upgrade process ,0
+Fix bug: Black send NEWGAME if simple GMP is used ,0
+Fix bug with wrong total thread time ,0
+Fix bug with threads queue update Move user to priority queue when operator has connection problems ,0
+fix bug when min == max ,0
+fix bug svg bar tooltip when data is array ,0
+Fix bug in visitor s tracking ,0
+Fix bug in recent changes ,0
+Fix bug in last change ,0
+Fix bug in last change ,0
+Fix bug in groups saving ,0
+Fix bug in chat button image s generation script ,0
+fix bug ie Date.parse ,0
+fix bug ie date parse ,0
+Fix bug at /operator/blocked.php page ,0
+fix bug ,0
+fix app icon  versions and installer git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@509 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Fix ability to change avatar ,0
+Fix a few HTML errors ,0
+fix ,0
+finish rebuild ,0
+Final API 967 and beta API 968 Java sources added,0
+fiexd little bugs ,0
+favicon git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@72 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+fast history search  fix redirection to groups  extract webim_mail function into notify.php ,0
+Extract function AnalyzeCommand.isTextType from GoGui.analyzeContinue ,1
+Extra specs for associations,0
+Extended specs for Connection#subscribe,0
+Export a package in override.core.  Further development on the property page... specifically removing the first column and making sure everything still turns up properly with the extra information for the remaining columns. ArchiveName can now also be set for all reference types instead of only allowing deploy path git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@16133 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+Executions Rails specs modified to pass,0
+ExecutionData ContractData - new message versions,0
+Execution Model added ,0
+Exchange meaning of F8 and F9 ,1
+example.html...path to change ,0
+Example Option contracts refreshed (expired contracts removed),0
+ex ,0
+Event log label providers git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1553 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Error handling while reading messages improved,0
+Error handling improved,0
+error check ,0
+enhance colorize ,0
+enable drag ,0
+drawInfluence smaller after changes in stone margin ,0
+drag bug ,0
+draft ,0
+dpchart ,0
+Double.MAX_VALUE bug corrected,0
+donations button added. Inspirer we need 2 talk about that git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@576 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Don t use StringUtils.replace anymore ,1
+Don t use splash screen anymore ,0
+Don t use greyed for disabled icons ,0
+Don t support GoGui option -rules anymore ,0
+Don t simulate rollover anymore  but use JToolbar.setRollover ,0
+Don t send gogui-setup if only player has changed ,0
+Don t send game settings after setup ,0
+Don t scale down thumbnail size for board sizes smaller than 19 anymore ,0
+Don t mark cboard as deprecated ,0
+Don t automatically run GtpStatistics in constructor ,1
+DOM script added ,0
+Documentation added,0
+Document calback array in the RequestProcessor class ,0
+Do not reset board before analyze command to allow multiple analyze outputs. ,0
+do not get userAgent from db git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@352 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+disconnect on computer lock git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@48 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Disable referee only for a single game if illegal move ,0
+disable feature checkboxes for non-admin ,0
+deployment tab disappeared due to bad string externalization git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@22976 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+delete types of old ,0
+Delete trailing whitespace ,0
+delete test file ,0
+DEFAULT_PROP constant replaced by default_attributes instance method with inheritance,0
+Declare classes Gmp and Gtp as final becuase they start a thread in the constructor ,1
+DB config and supporting gems (Java for now!),0
+Datatypes turned into Models  source files broken down ,1
+dat handling ,0
+darkbat ,0
+Critical RSE usability fixes git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@24251 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Critical bugs in Order-related messages fixed ,0
+Critical bug in Connection#place_order fixed ,0
+Create window with final size from the beginning ,0
+Create Thread Log JavaScript application ,1
+Create prefix for session vars ,1
+Create indexes for database tables during installation process ,0
+Create  operatorCheckLoginFail  event  update docs ,0
+cr/lf ,0
+Correcting problems identified by our first spec for DB backend,0
+corrected warning git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31026 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+corrected warning for raw type usage git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31086 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Corrected bug in Model comparison,0
+Correct Underlying model,1
+Correct typos ,0
+Correct typo ,0
+Correct the numbers in README,0
+Contracts and Orders are now comparable,0
+Contract reference added to bar,0
+Contract Order specs extended,0
+Contract exchange is now SMART by default,0
+Continue transition to using Actions ,0
+Construct StringBuffer with higher initial capacity ,1
+Constants module fully reorganized,1
+Connection#reader_running? test added,0
+Connection#clear_received API improved,0
+Connection wait_for/received/received? API added,0
+Connection API modified  unsubscribe added ,0
+compress ,0
+Completely rewrite invitations ,1
+Common prop setters extracted into ModelProperties,1
+commit the things ,0
+commit the svgline.html ,0
+commit the style ,0
+commit the page ,0
+commit the other page s download page ,0
+commit the navigator ,0
+commit the ga ,0
+commit the file ,0
+commit the download.html s change ,0
+commit the download.html page ,0
+commit the download fundation ,0
+commit the css file ,0
+commit the bar page ,0
+commit the api page ,0
+commit the api ,0
+commit the _index.js ,0
+commit the ,0
+commit php ,0
+commit new ui ,0
+commit it ,0
+commit ga index.html ,0
+commit canvas ,0
+commit ,0
+CommissionReport message added,0
+Comment out debugging messages. ,0
+comm.js before customevent.js ,0
+combo ,0
+Combine all fast view updates in a single function ,0
+com ,0
+Codestyle,0
+Close output streams after saving ,0
+Close file writers after writing data files ,0
+Clear status line after computer move error ,0
+cleanup for publishing events git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3824 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Cleanup ,0
+Cleanup ,0
+Cleaned up...  still needs performOK to work but it s getting there. Periodic checkin since I don t think this is even in the build yet.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@15813 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Cleaned up code related to close confirmation message ,0
+Classes Hash is now filled by def_message,1
+Check sgf files before collecting statistics ,0
+chart ,0
+changes will not be seen by anyone (extension commented out for release) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3854 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Changes to allow for a simplified descriptor viewer git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1274 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Changes in GameInfo layout ,0
+Change version to development version again ,0
+Change version string to development version again ,0
+change version -> 1.6.1  whatsnew  properties git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@521 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+change types to a seperate floder ,0
+Change title ,0
+change the radius ,0
+Change some item labels ,0
+Change pass message ,0
+Change keys of array return by Thread::getMessages ,1
+change index.html ,0
+Change Exception message in UsersProcessor::checkOperator method ,1
+change encoding to utf-8 ,0
+Change colors ,0
+Change button text ,0
+Center markups better ,0
+Center labels better ,0
+catch up events adapter ,0
+captcha: check if gdlib is installed git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@620 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Captcha completed in simplicity  and original! Captcha is completed. Original has some visual issues though... git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@567 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Captcha completed for Default Style! unfortuantly that s not universial...  git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@565 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+canvas to be work on ,0
+canvas case too big? ,0
+Calculate thread statistics that older one day ,0
+Bump dev deps,0
+build topology ,0
+build ,0
+Bugfix for FundamentalData,0
+Bug git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1698 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+bug fix ,0
+bug ,0
+box1 class git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@397 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+beta 2 git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@224 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Bar requests moved out of Messages::Outgoing into a separate source file,0
+bar multiple nestification ,0
+bar interaction ,0
+bar example ,0
+bar ,0
+axis types and fix tooltip bug ,0
+axis title ,0
+axis opacity ,0
+Axis divided to types ,0
+Avoid unnecessary change in list selection while changing combobox ,0
+Avoid some compiler warnings ,0
+Avoid NullPointerException after OutOfMemoryError ,0
+Avoid findbugs warning ,0
+Automatically hide invitation popup Invitation popup will hide if invitation canceled by operator or closed by timeout. ,0
+Auto-generated Rails specs for Ib::Order modified to pass ,0
+Auto-generate Orders Rails scaffold,0
+Attached Orders specified,0
+AS7 renamed to 7.x git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33405 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+area interactive ,0
+archives bot test is now included as module in tests  pom.xml git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@41069 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+arabic released git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@688 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+apply patch by Andrew Armstrong: available operators list (revised); remove odd eval code in common.js; fix obfuscation ,0
+app hippo shenzhen ,0
+api not so good ,0
+Another file into the bin directory ,1
+alter the files  to ajust the changes in dpchart.js ,0
+alter line.html ,0
+alter line and grid to chart ,0
+also removed the limit => 1 from boolean columns in schema.rb ,1
+Allowing delegates to participate in stopping even if ignore start / stop is checked.  git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36648 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+All references to model instance variables removed,1
+All models moved to new root directory,1
+All Models are now DB-backed,0
+All IB messages implemented ,0
+Admin page prep git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@549 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+adjust draw interface and progress ,0
+adjust basic ,0
+Adds Departments tab in Settings. need you to make it work with mysql. i ve started with the thing at the bottom of view/departments.php git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@270 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Adding order_id status accessors to OpenOrder message for compatibility,1
+Adding canned messages during system installation process ,0
+Added wrapper functions for mysql_fetch_assoc and mysql_fetch_row ,1
+Added validations specs for Bag contracts,0
+Added to the Mibew API the ability to use empty string as a signature ,1
+Added tests for the JavaScript s MibewAPIInteraction class ,0
+Added tabs at statistics page ,0
+Added support for ExecutionData message v.9,0
+Added some string related to threads error to localization ,0
+Added short titles for canned messages ,0
+added rspec test to test for new symbols added to list ,0
+added rspec test for error on invalid symbol ,0
+Added invitations styles ,0
+Added image descriptors git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2009 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Added groups weight ,0
+Added ExecutionData message v.8,0
+Added confirmation before closing chat ,0
+Added closing threads by timeout ,0
+added auth token for delete offline messages check for csrf ,0
+Added ability to specify different obligatory arguments list for different functions to the PHP and JavaScript MibewAPI library ,0
+Added a Rails 3 style engine definition and instructions on how to use it. ,0
+Added a full stack rails test enviroment based on freelancing-god / combustion gem. ,0
+Added a deploy option for generic files git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@3836 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Added a configuration section to change deploy dir for deploy-only server types git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@1619 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+add_params  div  pagination git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@15 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Add URL for psgo.sty in comment ,0
+Add Thread object creation to /operator/userhistory.php Replace direct work with thread table s fields by Thread object ,1
+add test file ,0
+Add target regress ,0
+add svg && canvas casees to the site ,0
+add Static Method DPChart.getColors() ,1
+Add some domain notes ,0
+Add some comments. ,0
+add site to venus ,0
+add shadow to line graph ,0
+Add several Handlebars helpers Add  apply    formatTime  and  nl2br  Handlebars helpers. Also add QUnit tests for  apply  helper. ,1
+Add setKomi()  setComment(String Node)  getMoveNumber ,1
+Add serialVersionUID ,0
+Add serialVersionUID ,0
+add redirect git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@235 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+add readme/reminder to build.properties git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@30710 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+add readme file ,0
+add pie tips to the pei chart ,0
+add pic ,0
+add options select for user to change the varies ,0
+Add openings from pro-games (gobase.org) ,0
+Add note about interrupting programs. ,0
+Add missing keys ,0
+add missing includes to src and bin git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@18551 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+Add missing import ,0
+Add missing call to synchronizeProgram() in humanMoved() ,1
+add locale names git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@246 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+add line chart to DPChart ,0
+add legend to dpchart.js and page.html ,0
+Add interface ConstField ,1
+add interaction to the site ,0
+Add Identifier and HelpBook keys ,1
+add Geo  OS and browser info to the table git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@295 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+add fx symbols to forex.rb ,1
+add function to Picasso.js ,1
+add exit full screen button ,0
+Add examples ,0
+add example and test folder ,0
+add DPChart.bar.js for test ,0
+add dpchart to git ,0
+Add documentation ,0
+Add documentation ,0
+Add db:redo Rake task rename test environments,1
+Add conveniance function Move.createPass ,1
+add common and examples ,0
+add common ,0
+Add comments ,0
+Add comments ,0
+add comments ,0
+Add comment ,0
+Add comment ,0
+add columns: avatar  jabbername git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@156 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+Add checkEmail function to Mibew.Utils ,1
+add canvaschart to the navigator(download) ,0
+add bar text ,0
+Add assertion ,0
+add animation to dot ,0
+Add and change some mnemonics ,0
+Add an ability to run cron job ,0
+Add ajax loader for Survey and LeaveMessage chat modules ,1
+Add ability for plugins to send custom messages ,0
+Add ,0
+adapter util ,0
+3.3 changes should ve been in trunk  d oh! git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@2149 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+1.6.4 RC1 ,0
+1.4.2 whatsnew git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@153 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+1.4.2 RC1 git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@161 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+1.3 fire dot event ,0
+<html><head><meta name=qrichtext content=1 /></head><body style=font-size:9pt;font-family:Sans Serif> <p>https://jira.jboss.org/jira/browse/JBDS-1106 - Updated master_output.</p> </body></html> git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@20508 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+<html><head><meta name=qrichtext content=1 /></head><body style=font-size:9pt;font-family:Sans Serif> <p>https://jira.jboss.org/jira/browse/JBDS-1106 - Updated master_output.</p> </body></html> git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@20498 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+#Li.liang changes some colors ,0
+[sound] do not play sound on name change git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@144 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+[site] spanish  forum git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@312 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+[site] 1.5.0 released git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@230 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+[JBIDE-9923] not closing the wizard if cloning failed. git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35796 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9890] fixed selected cartridge not being stored/restored from prefs & correctly initialized when empty git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35734 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9841] added feature to site.xml git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35384 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9813] implemented and tested IDomain#setNamespace git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35267 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9793] corrected cathegory and wizard naming git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35465 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9793] added IHttpClient#get() git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35218 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9781] added User#createDomain git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35110 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9591] corrected class header git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@35209 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9549] removed until egit plugins are added to the target platform git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33974 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9519] corrected exception handling  added proper logging git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33803 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9513] pushtest finally implemented and running successfully! git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34097 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9513] corrected test git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33998 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9510] started implementing IOpenshiftService#getStatus(Application). Will not get any further since server responds with <code>null</code> data object git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34663 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9510] renamed OpenShift to OpenShiftService git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34570 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9510] implementing IOpenshiftService#getUserInfo (integration test is now also successful) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34818 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9510] implementing IOpenshiftService#getUserInfo (integration test is now also successful) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34817 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9510] implementing create domain git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34598 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9510] git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@34731 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9358] extracted alerting event log to its own method git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@33017 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9261] updated to latest jboss as jars git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32377 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9225] removed inherited class since the inherited parts are not used! git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32435 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9215] moved launchCommandNoResult to RSEPublishMethod since this is the only place where it s used. Furthermore turned it from public static to private git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32405 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9215] extracted shutdown jar location to IJBossRuntimeResourceConstants git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32575 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9215] extracted abstract super class to RSEBehaviorDelegate git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32697 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9215] added comment about what new class replaces this deprecated one git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32748 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9176] replaced AS7 client jars by latest (beta4 nightly) ones git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32134 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9089] fixed erroneous call to remove .deployed marker in method that should remove .failed marker git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31885 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9054] replaced duplicate code by util method git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32401 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9054] removed unneeded reference to DelegatingServerBehavior git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@32897 a97e2381-89e5-4abb-bab3-167db6db766c ,0
+[JBIDE-9054] removed unneeded  overriden method (which does nothing but call the super-method) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31924 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-9054] added generics to list creations  removed unnecessary warnings git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31842 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-8920] simplified code so that it gets better readable (no functional change!) git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@31729 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[JBIDE-10275] added constructor so that AS7ManagerIntegrationTest compiles again git-svn-id: http://svn.jboss.org/repos/jbosstools/trunk@36735 a97e2381-89e5-4abb-bab3-167db6db766c ,1
+[1.5.1] update from branch git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@316 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+[ 1801652 ] Suggest user to remove install dir git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@100 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+[ 1801639 ] Don t allow blank passwords git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@101 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
+- removed redundant initializations; - translated exit confirmation; - russia is the default language; git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@87 c66351dc-e62f-0410-b875-e3a5c0b9693f ,1
+- create text menu items instead of graphical buttons; - updated icons with the new ones; git-svn-id: https://webim.svn.sourceforge.net/svnroot/webim/trunk@89 c66351dc-e62f-0410-b875-e3a5c0b9693f ,0
